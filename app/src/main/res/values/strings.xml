@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Neupokoev I.A</string>
+    <string name="change_color">Перекрасить</string>>
+    <string name="change_number">Изменить число</string>>
 </resources>
